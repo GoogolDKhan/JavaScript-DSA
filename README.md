@@ -5,6 +5,10 @@
 - `palindrome("A man, a plan, a canal. Panama")` returns `true`
 - `palindrome("1 eye for of 1 eye.")` returns `false`
 
+## Roman Numeral Converter
+- `convertToRoman(1023)` returns the string `MXXIII`
+- `convertToRoman(3999)` returns the string `MMMCMXCIX`
+
 ## Author
 
 - [@Sarfaraz](https://www.github.com/GoogolDKhan)
