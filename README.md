@@ -13,6 +13,10 @@
 - `rot13("SERR CVMMN!")` decodes to the string `FREE PIZZA!`
 - `rot13("GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT.")` decodes to the string `THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG`
 
+## Telephone Number Validator
+- `telephoneCheck("1 555-555-5555")` returns `true`
+- `telephoneCheck("2(757)6227382")` returns `false`
+
 ## Author
 
 - [@Sarfaraz](https://www.github.com/GoogolDKhan)
