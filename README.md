@@ -9,6 +9,10 @@
 - `convertToRoman(1023)` returns the string `MXXIII`
 - `convertToRoman(3999)` returns the string `MMMCMXCIX`
 
+## Caesars Cipher
+- `rot13("SERR CVMMN!")` decodes to the string `FREE PIZZA!`
+- `rot13("GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT.")` decodes to the string `THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG`
+
 ## Author
 
 - [@Sarfaraz](https://www.github.com/GoogolDKhan)
