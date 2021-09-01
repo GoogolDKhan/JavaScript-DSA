@@ -1,4 +1,4 @@
-# JavaScript Algorithms and Data Structures
+# JavaScript Algorithms and Data Structures [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/javascript-dsa/badge)](https://www.codefactor.io/repository/github/googoldkhan/javascript-dsa)
 
 ## Palindrome Checker
 
